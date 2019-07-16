@@ -18,7 +18,7 @@ Run `ng generate component component-name` to generate a new component. You can 
  
  ```
  > git init
- > git remote add origin https://github.com/bhaskar-repo/iit-frontend-source.git
+ > git remote add origin https://github.com/bhaskar-repo/itt-front-end.git
  > git pull origin master
  > npm install
  ```
